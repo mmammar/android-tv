@@ -1,5 +1,5 @@
 # MAWAQIT For Android TV
-![Mawaqit](assets/img/ mawaqit-logo-2022.png "Mawaqit logo")
+![Mawaqit](assets/img/mawaqit-logo-2022.png "Mawaqit logo")
 
 Version 1.0.0 of the Mawaqit For Android TV and Android Boxes.
 
